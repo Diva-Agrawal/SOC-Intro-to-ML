@@ -5,12 +5,18 @@ This project demonstrates how to forecast a stock’s closing price by leveragin
 
 # Project Structure
 stock-forecast-lstm-alt/
--> get_data.py           # Script to fetch and prepare the market data
--> model_lstm.py         # Training, performance checks, and charts with LSTM
--> requirements.txt      # Libraries to be installed
--> stock_data.csv        # Data file (created by get_data.py)
--> plot_alt_lstm.png     # Plot (created by model_lstm.py)
--> README.md             # Project details and guide
+
+get_data.py           # Script to fetch and prepare the market data
+
+model_lstm.py         # Training, performance checks, and charts with LSTM
+
+requirements.txt      # Libraries to be installed
+
+stock_data.csv        # Data file (created by get_data.py)
+
+plot_alt_lstm.png     # Plot (created by model_lstm.py)
+
+README.md             # Project details and guide
 
 # Working
 1. Gathering Market Data:
